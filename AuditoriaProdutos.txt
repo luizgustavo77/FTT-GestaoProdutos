@@ -1,0 +1,2 @@
+5;arroz;branco;10;1
+6;chinelo;preto;50;1

@@ -1,0 +1,6 @@
+1;biscoito;nao e bolacha;2;6
+2;bolacha;nao e biscoito;2;6
+3;playstaxion;yudi;6;6
+4;DISKET;panela velha e que faz comida boa;0.5;75
+5;arroz;branco;10;1
+6;chinelo;preto;50;1

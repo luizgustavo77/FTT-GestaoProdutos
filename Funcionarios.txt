@@ -1,0 +1,5 @@
+master;master;master;Gerente;master;master;master;cpf;nome;telefone;null;contratacao;demissao;senha
+1;JAO;8888-8888;Funcionario;12/03/2020;0;123456
+2;JABIRAO;8888-8888;Vendedor;12/03/2020;0;123456
+3;jose;123456;Gerente;13/03/2020;0;1
+987;joana;987;Vendedor;21/05/2020;0;987
