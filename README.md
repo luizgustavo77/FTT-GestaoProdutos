@@ -1,4 +1,7 @@
-# **GestaoProdutos**
+# 💻 **GestaoProdutos**
+> Atividade realizada na Engenharia da computação no 6° semesntre para a matéria de Logica de Programação II.
+
+## Descrição
 - N1 LPII
 - NetBeans 8.2
 - Luiz Gustavo de Freitas - 082170039
@@ -9,7 +12,7 @@
   
 ---
 
-## **Atividade do dia 22/06/2020**
+## 🚀 **Atividades Complementares** 
 
 - **Thread**, atualizamos o arquivo [**Auditoria**](https://github.com/luizgustavo77/GestaoProdutos/blob/master/src/Services/DAL/Auditoria.java)
 
